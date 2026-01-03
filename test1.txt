@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is C8AA-8222
-
- Directory of C:\Users\vits2\OneDrive\Desktop\gitCommand
-
-03-01-2026  17:17    <DIR>          .
-03-01-2026  17:12    <DIR>          ..
-03-01-2026  17:17                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  48,338,939,904 bytes free
+changed 1
